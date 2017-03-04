@@ -1,6 +1,8 @@
 # CircularImageClick
 A custom ImageButton that invoke onClickListener only when touch is inside the circle not outside (rectangle area of button)
 
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-CircularImageClick-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/5391)
+
 # Demo
 
 <p align="center">
